@@ -8,6 +8,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Kotlin_Practice" />
+        android:theme="@style/Theme.Kotlin_Practice">
+        <activity android:name=".Kotlin.button_click_1"></activity>
+    </application>
 
 </manifest>
