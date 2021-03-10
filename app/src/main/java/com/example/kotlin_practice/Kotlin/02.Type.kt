@@ -21,7 +21,7 @@ var point1: Double = 3.4
 
 // Variable or Value??
 // - 1. 변하지는 않는 값이라면 Value
-// - 2. 진짜 모르겠다! -> Value
+// - 2. 진짜 모르겠다 -> Value
 
 
 fun main(array: Array<String>) {
